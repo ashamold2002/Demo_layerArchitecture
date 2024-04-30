@@ -1,6 +1,6 @@
 using Demo.API.Controllers;
-using Demo.Infrastructure.Extensions;
-using Demo.Infrastructure.Persistence;
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddScoped<IWeatherservice, Weatherservice>();
-builder.Services.AddInfrastructure(builder.Configuration);
+//builder.Services.AddInfrastructure(builder.Configuration);
 
 
 var app = builder.Build();

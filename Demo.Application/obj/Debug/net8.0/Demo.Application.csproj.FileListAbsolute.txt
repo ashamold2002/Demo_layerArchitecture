@@ -13,3 +13,4 @@ D:\Layer_Architecture\Repo\Demo.Application\obj\Debug\net8.0\Demo.Application.dl
 D:\Layer_Architecture\Repo\Demo.Application\obj\Debug\net8.0\refint\Demo.Application.dll
 D:\Layer_Architecture\Repo\Demo.Application\obj\Debug\net8.0\Demo.Application.pdb
 D:\Layer_Architecture\Repo\Demo.Application\obj\Debug\net8.0\ref\Demo.Application.dll
+D:\Layer_Architecture\Repo\Demo.Application\obj\Debug\net8.0\Demo.Application.sourcelink.json

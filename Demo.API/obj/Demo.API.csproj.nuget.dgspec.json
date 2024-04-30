@@ -33,11 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Layer_Architecture\\Repo\\Demo.Application\\Demo.Application.csproj": {
-                "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Application\\Demo.Application.csproj"
-              },
-              "D:\\Layer_Architecture\\Repo\\Demo.Infrastructure\\Demo.Infrastructure.csproj": {
-                "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Infrastructure\\Demo.Infrastructure.csproj"
+              "D:\\Layer_Architecture\\Repo\\Demo.Application\\Demo.Core.csproj": {
+                "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Application\\Demo.Core.csproj"
               }
             }
           }
@@ -82,12 +79,12 @@
         }
       }
     },
-    "D:\\Layer_Architecture\\Repo\\Demo.Application\\Demo.Application.csproj": {
+    "D:\\Layer_Architecture\\Repo\\Demo.Application\\Demo.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Layer_Architecture\\Repo\\Demo.Application\\Demo.Application.csproj",
-        "projectName": "Demo.Application",
-        "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Application\\Demo.Application.csproj",
+        "projectUniqueName": "D:\\Layer_Architecture\\Repo\\Demo.Application\\Demo.Core.csproj",
+        "projectName": "Demo.Core",
+        "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Application\\Demo.Core.csproj",
         "packagesPath": "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\",
         "outputPath": "D:\\Layer_Architecture\\Repo\\Demo.Application\\obj\\",
         "projectStyle": "PackageReference",
@@ -111,8 +108,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Domain.csproj": {
-                "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Domain.csproj"
+              "D:\\Layer_Architecture\\Repo\\Demo.Infrastructure\\Demo.Data.csproj": {
+                "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Infrastructure\\Demo.Data.csproj"
               }
             }
           }
@@ -146,12 +143,12 @@
         }
       }
     },
-    "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Domain.csproj": {
+    "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Domain.csproj",
-        "projectName": "Demo.Domain",
-        "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Domain.csproj",
+        "projectUniqueName": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Common.csproj",
+        "projectName": "Demo.Common",
+        "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Common.csproj",
         "packagesPath": "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\",
         "outputPath": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\obj\\",
         "projectStyle": "PackageReference",
@@ -206,12 +203,12 @@
         }
       }
     },
-    "D:\\Layer_Architecture\\Repo\\Demo.Infrastructure\\Demo.Infrastructure.csproj": {
+    "D:\\Layer_Architecture\\Repo\\Demo.Infrastructure\\Demo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Layer_Architecture\\Repo\\Demo.Infrastructure\\Demo.Infrastructure.csproj",
-        "projectName": "Demo.Infrastructure",
-        "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Infrastructure\\Demo.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Layer_Architecture\\Repo\\Demo.Infrastructure\\Demo.Data.csproj",
+        "projectName": "Demo.Data",
+        "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Infrastructure\\Demo.Data.csproj",
         "packagesPath": "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\",
         "outputPath": "D:\\Layer_Architecture\\Repo\\Demo.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
@@ -235,8 +232,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Layer_Architecture\\Repo\\Demo.Application\\Demo.Application.csproj": {
-                "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Application\\Demo.Application.csproj"
+              "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Common.csproj": {
+                "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Common.csproj"
               }
             }
           }

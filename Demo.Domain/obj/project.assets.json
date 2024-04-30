@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Domain.csproj",
-      "projectName": "Demo.Domain",
-      "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Domain.csproj",
+      "projectUniqueName": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Common.csproj",
+      "projectName": "Demo.Common",
+      "projectPath": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Common.csproj",
       "packagesPath": "C:\\Users\\asha.dharmaraj\\.nuget\\packages\\",
       "outputPath": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\obj\\",
       "projectStyle": "PackageReference",

@@ -5,11 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.API", "Demo.API\Demo.API.csproj", "{1D4FCF7D-2986-4ACB-BE4A-BAC6149F059B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Domain", "Demo.Domain\Demo.Domain.csproj", "{4357DA86-82D3-4028-9970-46D26322802F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Common", "Demo.Domain\Demo.Common.csproj", "{4357DA86-82D3-4028-9970-46D26322802F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Application", "Demo.Application\Demo.Application.csproj", "{E5AD025A-0444-4362-BCAF-ACC3D8F40477}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Core", "Demo.Application\Demo.Core.csproj", "{E5AD025A-0444-4362-BCAF-ACC3D8F40477}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Infrastructure", "Demo.Infrastructure\Demo.Infrastructure.csproj", "{567F7074-FBE9-4118-9BF8-E2F0EAC059C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Data", "Demo.Infrastructure\Demo.Data.csproj", "{567F7074-FBE9-4118-9BF8-E2F0EAC059C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

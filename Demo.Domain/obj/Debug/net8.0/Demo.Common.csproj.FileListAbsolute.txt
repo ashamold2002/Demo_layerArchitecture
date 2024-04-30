@@ -1,0 +1,12 @@
+D:\Layer_Architecture\Repo\Demo.Domain\bin\Debug\net8.0\Demo.Common.deps.json
+D:\Layer_Architecture\Repo\Demo.Domain\bin\Debug\net8.0\Demo.Common.dll
+D:\Layer_Architecture\Repo\Demo.Domain\bin\Debug\net8.0\Demo.Common.pdb
+D:\Layer_Architecture\Repo\Demo.Domain\obj\Debug\net8.0\Demo.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Layer_Architecture\Repo\Demo.Domain\obj\Debug\net8.0\Demo.Common.AssemblyInfoInputs.cache
+D:\Layer_Architecture\Repo\Demo.Domain\obj\Debug\net8.0\Demo.Common.AssemblyInfo.cs
+D:\Layer_Architecture\Repo\Demo.Domain\obj\Debug\net8.0\Demo.Common.csproj.CoreCompileInputs.cache
+D:\Layer_Architecture\Repo\Demo.Domain\obj\Debug\net8.0\Demo.Common.sourcelink.json
+D:\Layer_Architecture\Repo\Demo.Domain\obj\Debug\net8.0\Demo.Common.dll
+D:\Layer_Architecture\Repo\Demo.Domain\obj\Debug\net8.0\refint\Demo.Common.dll
+D:\Layer_Architecture\Repo\Demo.Domain\obj\Debug\net8.0\Demo.Common.pdb
+D:\Layer_Architecture\Repo\Demo.Domain\obj\Debug\net8.0\ref\Demo.Common.dll

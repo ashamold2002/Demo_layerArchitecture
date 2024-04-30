@@ -75,12 +75,6 @@ D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreap
 D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Demo.Application.dll
-D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Demo.Domain.dll
-D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Demo.Infrastructure.dll
-D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Demo.Application.pdb
-D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Demo.Infrastructure.pdb
-D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Demo.Domain.pdb
 D:\Layer_Architecture\Repo\Demo.API\obj\Debug\net8.0\Demo.API.MvcApplicationPartsAssemblyInfo.cs
 D:\Layer_Architecture\Repo\Demo.API\obj\Debug\net8.0\Demo.API.csproj.CopyComplete
 D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Humanizer.dll
@@ -149,3 +143,10 @@ D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.W
 D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Layer_Architecture\Repo\Demo.API\obj\Debug\net8.0\Demo.API.sourcelink.json
+D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Demo.Common.dll
+D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Demo.Core.dll
+D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Demo.DataLayer.dll
+D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Demo.Core.pdb
+D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Demo.DataLayer.pdb
+D:\Layer_Architecture\Repo\Demo.API\bin\Debug\net8.0\Demo.Common.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZC0CniRj0A1XQGx6BmLUp6JHuO+l26cBvKg5leYC6ZiU2o4gaYRQE4ehc2aQRcclHyAcEYv7wIvvjNwnZWHAg==",
+  "dgSpecHash": "iFJ5YGhhIW5p+DL8r5ggrjjju6gIgEED2cCRsjU4ZygCGOkfi25I/CprQJi5afaM+S4uz6lDuaL7Xt8tWJjucw==",
   "success": true,
-  "projectFilePath": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Domain.csproj",
+  "projectFilePath": "D:\\Layer_Architecture\\Repo\\Demo.Domain\\Demo.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
